@@ -1,0 +1,35 @@
+.page {
+  font-family: "Inter", sans-serif;
+  color: #ffffff;
+  background-color: #2a2c2f;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+@media screen and (max-width: 1024px) {
+  .page {
+    max-width: 100%;
+    box-sizing: border-box;
+    height: auto;
+  }
+}
+@media screen and (max-width: 768px) {
+  .page {
+    max-width: 100%;
+    height: auto;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 544px) {
+  .page {
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 320px) {
+  .page {
+    max-width: 100%;
+    margin: 0 auto;
+    box-sizing: border-box;
+  }
+}
