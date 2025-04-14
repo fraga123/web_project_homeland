@@ -1,7 +1,7 @@
 # Tripleten web_project_homeland
 Dirección del proyecto:
 -https://github.com/fraga123/web_project_homeland
--
+-https://fraga123.github.io/web_project_homeland/
 
 descripcion del proyecto:
 Es una página web que muestra las ciudades natales de algunos colegas de TripleTen.
