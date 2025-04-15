@@ -50,17 +50,21 @@
     font-size: 45px;
     line-height: 49px;
     box-sizing: border-box;
+    font-family: 'Inter';
   }
 
   .intro__resumen {
     box-sizing: border-box;
+    font-family: 'Inter';
   }
 
   .intro__autor {
+    font-family: 'Inter';
     box-sizing: border-box;
   }
 
   .intro__descripcion {
+    font-family: 'Inter';
     font-size: 16px;
     line-height: 163%;
     box-sizing: border-box;
@@ -120,24 +124,28 @@
   }
 
   .intro__title {
+    font-family: 'Inter';
     font-size: 32px;
     line-height: 35px;
     box-sizing: border-box;
   }
 
   .intro__resumen {
+    font-family: 'Inter';
     font-size: 24px;
     line-height: 30px;
     box-sizing: border-box;
   }
 
   .intro__autor {
+    font-family: 'Inter';
     font-size: 24px;
     line-height: 34px;
     box-sizing: border-box;
   }
 
   .intro__descripcion {
+    font-family: 'Inter';
     font-size: 16px;
     line-height: 163%;
     box-sizing: border-box;
