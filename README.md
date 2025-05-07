@@ -10,6 +10,8 @@ La galería presenta una cabecera donde lleve el titulo principal, la sección p
 Tecnologias usadas:
 -HTML 5
 -CONTENEDORES Y ELEMENTOS FLEXIBLES.
+-GRID LAYOUT
+-HOVER, SOMBRAS, REGRADADOS
 -USO DE FUENTES.
 -MEDIAS QUERIES PARA DISEÑOS RESPONSIVOS.
 -USO DE LA METODOLOGIA BEM.
